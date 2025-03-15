@@ -19,4 +19,4 @@ class Calculation:
         return self.operation(self.a, self.b)
 
     def __repr__(self) -> str:
-        return f"Calculation({self.a}, {self.b}, {self.operation._name_})"
+        return f"Calculation({self.a}, {self.b}, {self.operation.__name__})"
