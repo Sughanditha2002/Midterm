@@ -18,7 +18,7 @@ def test_calculation_operations(a_value, b_value, operation, expected_output):
     calc = Calculation(a_value, b_value, operation)
     result = calc.perform()
     assert result == expected_output, (
-        f"Failed {operation._name_} operation with {a_value} and {b_value}: "
+        f"Failed {operation.__name__} operation with {a_value} and {b_value}: "
         f"expected {expected_output}, got {result}"
     )
 
