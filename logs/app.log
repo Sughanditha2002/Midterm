@@ -1,1 +1,15 @@
 2025-03-15 20:16:27,644 - INFO - Executed add command with result: 5
+2025-03-16 23:25:32,165 - ERROR - Invalid input: invalid literal for int() with base 10: ''
+2025-03-16 23:25:44,065 - INFO - Executed subtract command with result: 4
+2025-03-16 23:26:20,784 - INFO - Executed power command with result: 25
+2025-03-16 23:26:26,918 - INFO - Executed add command with result: 7
+2025-03-16 23:26:35,716 - INFO - Executed subtract command with result: 5
+2025-03-16 23:26:48,327 - ERROR - Invalid input: invalid literal for int() with base 10: ''
+2025-03-16 23:26:50,920 - INFO - Exiting the app. Goodbye!
+2025-03-16 23:34:19,180 - ERROR - Invalid input: invalid literal for int() with base 10: ''
+2025-03-16 23:34:29,852 - INFO - Executed add command with result: 5
+2025-03-16 23:34:35,626 - INFO - Exiting the app. Goodbye!
+2025-03-16 23:41:09,806 - INFO - Executed add command with result: 5
+2025-03-16 23:41:24,333 - INFO - Executed subtract command with result: 1
+2025-03-16 23:41:33,367 - ERROR - Invalid input: invalid literal for int() with base 10: ''
+2025-03-16 23:41:35,447 - INFO - Exiting the app. Goodbye!
